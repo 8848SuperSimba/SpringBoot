@@ -1,0 +1,2 @@
+Frontend Address: http://localhost:8080/springbootyf10w/front/index.html
+Backend Address: http://localhost:8080/springbootyf10w/admin/dist/index.html
